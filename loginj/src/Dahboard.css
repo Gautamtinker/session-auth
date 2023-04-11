@@ -1,0 +1,18 @@
+.Dashboard
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button
+{
+    display: flex;
+    font-size: 50px;
+    justify-content: center;
+    align-items: center;
+    margin: 23px;
+}
+font-size-50
+{
+    font-size: 45px;
+}
